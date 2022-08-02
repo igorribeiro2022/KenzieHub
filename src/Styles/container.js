@@ -18,7 +18,7 @@ const Container = styled.div`
   h1 {
     font-size: 16pt;
     color: var(--pink-primary);
-    margin-bottom: 15px;
+    
   }
 `;
 

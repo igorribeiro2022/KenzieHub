@@ -10,7 +10,7 @@ const Div = styled.div`
   max-width: 370px;
 
   button {
-    margin-top: 15px;
+    
     height: 40px;
     border-radius: 5px;
     border: none;

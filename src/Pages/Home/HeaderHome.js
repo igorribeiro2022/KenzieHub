@@ -14,6 +14,7 @@ export const HeaderHome = styled.header`
     h1 {
         color: var(--pink-primary);
         font-size: 16pt;
+        margin: 0;
     }
 
     button {
