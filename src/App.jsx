@@ -5,7 +5,9 @@ import 'react-toastify/dist/ReactToastify.min.css';
 import { useState } from "react";
 
 function App() {
+  
   const [user, setUser] = useState({})
+
   return (
     <>
       <GlobalStyle />
